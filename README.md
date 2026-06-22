@@ -27,8 +27,19 @@ I'm Lokjit, a computer science student.
 
 # 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokjitkundu)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokjitkunduofficial@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/lokjitkundu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+
+  <a href="mailto:lokjitkundu@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+
+  <a href="https://github.com/LokjitKundu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
+</p>
 
 # 📊 Github stats
 
