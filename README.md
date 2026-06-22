@@ -6,7 +6,7 @@ I'm Lokjit, a computer science student.
 * Currently learning GUI
 * Profound interest in application development and machine learning
 
-# Skills
+# 🎯 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge)
@@ -25,19 +25,19 @@ I'm Lokjit, a computer science student.
 * Master of Computer Application @ Academy of Technology (2025 - Present)
 * Bachelor of Computer Application @ Institute of Engineering and Management (2022 - 2025)
 
-# Connect with me
+# 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokjitkundu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokjitkunduofficial@gmail.com)
 
-# Github stats
+# 📊 Github stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokjitKundu&show_icons=true&theme=tokyonight)
 
-# Most used languages
+# 🌐 Most used languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LokjitKundu&layout=compact&theme=tokyonight)
 
-# Github streak
+# 🔥 Github streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LokjitKundu&theme=tokyonight)
