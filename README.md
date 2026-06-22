@@ -6,7 +6,7 @@ I'm Lokjit Kundu, a Computer Science student who enjoys building software and le
 * Currently learning GUI
 * Profound interest in application development and machine learning
 
-# 🎯 Skills
+# Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge)
@@ -20,12 +20,12 @@ I'm Lokjit Kundu, a Computer Science student who enjoys building software and le
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-# 🎓 Education
+# Education
 
 * Master of Computer Application @ Academy of Technology Hooghly (2025 - Present)
 * Bachelor of Computer Application @ Institute of Engineering and Management Kolkata (2022 - 2025)
 
-# 🤝 Connect with me
+# Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lokjitkundu" target="_blank">
@@ -41,14 +41,14 @@ I'm Lokjit Kundu, a Computer Science student who enjoys building software and le
   </a>
 </p>
 
-# 📊 Github stats
+# Github stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokjitKundu&show_icons=true&theme=tokyonight)
 
-# 🌐 Most used languages
+# Most used languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LokjitKundu&layout=compact&theme=tokyonight)
 
-# 🔥 Github streak
+# Github streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LokjitKundu&theme=tokyonight)
