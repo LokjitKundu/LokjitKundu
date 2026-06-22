@@ -22,8 +22,8 @@ I'm Lokjit, a computer science student.
 
 # 🎓 Education
 
-* Master of Computer Application @ Academy of Technology (2025 - Present)
-* Bachelor of Computer Application @ Institute of Engineering and Management (2022 - 2025)
+* Master of Computer Application @ Academy of Technology Hooghly (2025 - Present)
+* Bachelor of Computer Application @ Institute of Engineering and Management Kolkata (2022 - 2025)
 
 # 🤝 Connect with me
 
