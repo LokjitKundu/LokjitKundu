@@ -1,6 +1,6 @@
 # Hi there👨‍💻
 
-I'm Lokjit, a computer science student.
+I'm Lokjit Kundu, a Computer Science student who enjoys building software and learning new technologies
 
 * Python Developer
 * Currently learning GUI
